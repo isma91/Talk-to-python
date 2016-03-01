@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*-coding:utf-8 -*
 def oneself():
     lastname = input("Your Lastname ?\n");
     lastname = lastname.strip();
