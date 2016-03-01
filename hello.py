@@ -24,6 +24,7 @@ def oneself():
 
     print("Hello", lastname, firstname, "!! You're", age, "years old !!\n");
     print("Thanks you !!");
+    a = input(">");
     return;
 def hello_help():
     print("This script gonna ask you your Firstname, Lastname and your age\n");
