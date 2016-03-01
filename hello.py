@@ -1,5 +1,4 @@
 #!/usr/bin/python
-import pprint
 import sys
 def afficher(nom, prenom, age):
 	print("Hello my name is ", nom, prenom, " and i'm " , age , " years old !!");
