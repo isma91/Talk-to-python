@@ -7,4 +7,4 @@ The script will ask you if you want to present or if you need help
 
 Windows version :
 -----------------
-Just take the dist folder and execute appli who is in dist/appli
+Just take the dist folder and execute appli who is in dist/appli or unzip the appli.zip and execute appli.exe
