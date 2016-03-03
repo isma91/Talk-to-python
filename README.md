@@ -2,10 +2,15 @@
 ##Just a python script to present oneself
 How To Use :  
 --------
+
+Linux version :
+--------------  
+
 ```python3 hello.py```
 The script will ask you if you want to present or if you need help  
 
 Or for the GUI version :  
+
 ```python3.4 appli.py```
 
 Windows version :
