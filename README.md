@@ -10,4 +10,4 @@ Or for the GUI version :
 
 Windows version :
 -----------------
-Just take the dist folder and execute appli who is in dist/appli or unzip the appli.zip and execute appli.exe
+Just unzip the appli.zip and execute appli.exe
